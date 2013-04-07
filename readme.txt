@@ -1,3 +1,7 @@
+This was derived from a number of relevant posts and samples. I found this particular 
+combination of techniques to particularly useful for my needs. Feel free to fork/modify
+for your particular situation. 
+
 You want to implement session-per-request, which can be done a number of
 ways.
 
